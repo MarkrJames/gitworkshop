@@ -1,7 +1,9 @@
-# gitworkshop
+![A gif](https://media.giphy.com/media/xTiTnGeUsWOEwsGoG4/giphy.gif)!
+
+# Git Workshop
 Notes from Git workshop
 
-![A gif](https://media.giphy.com/media/xTiTnGeUsWOEwsGoG4/giphy.gif) !
+[Stephs Gist notes](https://gist.github.com/MarkrJames/4cb86128333ef6c7b408ca7bd6f84df3)
 
 # My usual workflow
 ```bash
@@ -14,5 +16,6 @@ git push
 ```
 
 # R Studio and Git
-
 [Jenny BC Tips](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session2.4_github.html)
+
+
